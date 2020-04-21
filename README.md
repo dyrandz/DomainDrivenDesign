@@ -3,7 +3,7 @@ DP Assessment
 
 Using .net Core 3.1
 
-applying CQRS and MediatR Pattern which separates the Command and Queries. (u
+Applying CQRS and MediatR Pattern which separates the Command and Queries.
 
 Using Dapper as the ORM 
 
